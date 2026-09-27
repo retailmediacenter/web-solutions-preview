@@ -1,9 +1,9 @@
 {
   "project": "RMC Web Solutions",
   "type": "dev-preview",
-  "sourceCommit": "047d709d1fd3",
+  "sourceCommit": "d96748b5f84f",
   "workingTreeDirty": true,
-  "generatedAt": "2026-09-27T09:14:02.490Z",
+  "generatedAt": "2026-09-27T09:49:39.356Z",
   "stagingApiOrigin": "https://rmc-web-solutions-api-staging.onrender.com",
   "bookingLive": true,
   "note": "Stabilni DEV QA SITE ID-jevi. Samo eksplicitno omogućeni scenariji imaju staging transport. Nikada nema koda ili vlasničkog tokena u javnim fajlovima.",
