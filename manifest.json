@@ -1,11 +1,13 @@
 {
   "project": "RMC Web Solutions",
   "type": "dev-preview",
-  "sourceCommit": "08758ad0fdde",
+  "sourceCommit": "8bf917603d19",
   "workingTreeDirty": true,
-  "generatedAt": "2026-09-27T17:45:56.575Z",
+  "generatedAt": "2026-09-28T16:41:08.449Z",
   "stagingApiOrigin": "https://rmc-web-solutions-api-staging.onrender.com",
+  "qaLive": true,
   "bookingLive": true,
+  "commerceLive": true,
   "note": "Stabilni DEV QA SITE ID-jevi. Samo eksplicitno omogućeni scenariji imaju staging transport. Nikada nema koda ili vlasničkog tokena u javnim fajlovima.",
   "scenarios": [
     {
@@ -30,9 +32,11 @@
         "wineTastings": false,
         "butcherGrillService": false
       },
-      "files": 21,
+      "files": 22,
       "siteId": "QseEDoCrhqdHvakxGvQ41J8i",
+      "qaLive": true,
       "bookingLive": false,
+      "commerceLive": true,
       "paired": false
     },
     {
@@ -57,9 +61,11 @@
         "wineTastings": false,
         "butcherGrillService": false
       },
-      "files": 26,
+      "files": 27,
       "siteId": "2Peu17pSgiZz9cl8TQbK6Z7i",
+      "qaLive": true,
       "bookingLive": false,
+      "commerceLive": true,
       "paired": false
     },
     {
@@ -83,9 +89,11 @@
         "wineTastings": false,
         "butcherGrillService": false
       },
-      "files": 14,
+      "files": 15,
       "siteId": "Z3Ehb3WYd2W721LUB4Y8DuHs",
-      "bookingLive": false,
+      "qaLive": true,
+      "bookingLive": true,
+      "commerceLive": false,
       "paired": false
     },
     {
@@ -111,7 +119,9 @@
       },
       "files": 15,
       "siteId": "-l0TtTRUAW1cilRuxl4Ib--a",
+      "qaLive": true,
       "bookingLive": true,
+      "commerceLive": false,
       "paired": false
     },
     {
@@ -137,9 +147,11 @@
         "wineTastings": true,
         "butcherGrillService": false
       },
-      "files": 17,
+      "files": 19,
       "siteId": "2JpwLJCPo9o8Bvp-r1owwqVz",
-      "bookingLive": false,
+      "qaLive": true,
+      "bookingLive": true,
+      "commerceLive": true,
       "paired": false
     },
     {
@@ -164,9 +176,11 @@
         "wineTastings": false,
         "butcherGrillService": true
       },
-      "files": 21,
+      "files": 22,
       "siteId": "tXb77sBZPQMMQ97Yr6OPDUFE",
+      "qaLive": true,
       "bookingLive": false,
+      "commerceLive": true,
       "paired": false
     },
     {
@@ -192,7 +206,9 @@
       },
       "files": 15,
       "siteId": "X2NQfB8OQ-16VZ0FVjfbahha",
+      "qaLive": true,
       "bookingLive": true,
+      "commerceLive": false,
       "paired": false
     },
     {
@@ -216,9 +232,11 @@
         "wineTastings": false,
         "butcherGrillService": false
       },
-      "files": 14,
+      "files": 15,
       "siteId": "lNGSp8wlzatOx-L9MbBoWtDZ",
-      "bookingLive": false,
+      "qaLive": true,
+      "bookingLive": true,
+      "commerceLive": false,
       "paired": false
     },
     {
@@ -242,9 +260,11 @@
         "wineTastings": false,
         "butcherGrillService": false
       },
-      "files": 14,
+      "files": 15,
       "siteId": "CrTDzQPaTMljQoY5M---MUUc",
-      "bookingLive": false,
+      "qaLive": true,
+      "bookingLive": true,
+      "commerceLive": false,
       "paired": false
     }
   ]
